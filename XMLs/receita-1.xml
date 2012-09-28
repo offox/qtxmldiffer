@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<receita nome="pão" tempo_de_preparo="5 minutos" tempo_de_cozimento="1 hora">
-  <titulo>Pão simples</titulo>
+<receita nome="pao" tempo_de_preparo="5 minutos" tempo_de_cozimento="1 hora">
+  <titulo>Pao simples</titulo>
   <ingredientes>
-    <ingrediente quantidade="3" unidade="xícaras">Farinha</ingrediente>
+    <ingrediente quantidade="3" unidade="xicaras">Farinha</ingrediente>
     <ingrediente quantidade="7" unidade="gramas">Fermento</ingrediente>
-    <ingrediente quantidade="1.5" unidade="xícaras" estado="morna">Água</ingrediente>
-    <ingrediente quantidade="1" unidade="colheres de chá">Sal</ingrediente>
+    <ingrediente quantidade="1.5" unidade="xicaras" estado="morna">agua</ingrediente>
+    <ingrediente quantidade="1" unidade="colheres de cha">Sal</ingrediente>
   </ingredientes>
   <instrucoes>
     <passo>Misture todos os ingredientes, e dissolva bem.</passo>
@@ -13,3 +12,4 @@
     <passo>Misture novamente, coloque numa bandeja e asse num forno.</passo>
   </instrucoes>
 </receita>
+

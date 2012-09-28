@@ -64,6 +64,7 @@ public:
     QModelIndex parent(const QModelIndex &index) const;
     int rowCount(const QModelIndex &parent = QModelIndex()) const;
     int columnCount(const QModelIndex &parent = QModelIndex()) const;
+    void addItem(const QStringList &);
 
 private:
     void setupModelData(const QStringList &lines, TreeItem *parent);

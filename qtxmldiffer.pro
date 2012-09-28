@@ -13,13 +13,13 @@ TEMPLATE = app
 SOURCES += main.cpp\
         mainwindow.cpp \
     xmldiffer.cpp \
-    3rdpart/treemodel.cpp \
-    3rdpart/treeitem.cpp
+    #3rdpart/treemodel.cpp \
+    #3rdpart/treeitem.cpp
 
 HEADERS  += mainwindow.h \
     xmldiffer.h \
-    3rdpart/treemodel.h \
-    3rdpart/treeitem.h
+    #3rdpart/treemodel.h \
+    #3rdpart/treeitem.h
 
 FORMS    += mainwindow.ui
 
